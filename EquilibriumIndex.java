@@ -36,13 +36,7 @@ public class EquilibriumIndex{
 			
 			leftSum +=indices[i];
 		}
-			
-						
-			
-						
-			
-		
-		
+	
 	}
 	
 	
